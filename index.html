@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      href="/Web D/Music App/Images/My Logo.png"
+      type="image/png"
+    />
+    <title>Music App</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="cover-photo">
+        <img id="coverImage" alt="image" />
+      </div>
+      <div class="song-info">
+        <h1 id="songTitle"></h1>
+        <p id="artistName"></p>
+      </div>
+      <div class="playback-options">
+        <span id="previousButton" class="material-icons"> fast_rewind </span>
+        <span id="playButton" class="material-icons" onclick="playmusic()"
+          >play_circle_outline
+        </span>
+        <span id="nextButton" class="material-icons"> fast_forward </span>
+      </div>
+      <div class="next-song">
+        <p>Next Up:</p>
+        <p id="nextSong"></p>
+      </div>
+      <audio id="music"></audio>
+    </div>
+    <script src="/Web D/Music App/songs.json"></script>
+    <script src="/Web D/Music App/logic.js"></script>
+  </body>
+</html>

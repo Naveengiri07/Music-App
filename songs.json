@@ -1,0 +1,77 @@
+{
+"songs" : [
+  {
+    "source":"/Web D/Music App/songs/Badnam  The Bad Boy -(Mr-Jatt.com).mp3",
+    "title":"Badnam",
+    "artist":"Mankirt Aulakh",
+    "coverImage": "/Web D/Music App/Images/img1.jpg"
+  },
+
+  {
+    "source":"/Web D/Music App/songs/Gangland - Mankirt Aulakh & Deep Kahlon.mp3",
+    "title":"Gangland",
+    "artist":"Mankirt Aulakh",
+    "coverImage": "/Web D/Music App/Images/img2.jpg"
+  },
+   
+  {
+    "source":"/Web D/Music App/songs/01 - Phir Se Ud Chala.mp3",
+    "title":"Phir Se Ud Chla",
+    "artist":"Mohit Chauhan",
+    "coverImage": "/Web D/Music App/Images/img3.jpg"
+  },
+
+  {
+    "source":"/Web D/Music App/songs/07 - Aayat - DownloadMing.SE.mp3",
+    "title":"Aayat",
+    "artist":"Arjit Singh",
+    "coverImage": "/Web D/Music App/Images/img4.jpg"
+  },
+
+  {
+    "source":"/Web D/Music App/songs/Afreen Afreen-(Mr-Jatt.com).mp3",
+    "title":"Afreen Afreen",
+    "artist":"Rahat Fateh Ali Khan",
+    "coverImage": "/Web D/Music App/Images/img5.jpg"
+  },
+
+  {
+    "source":"/Web D/Music App/songs/AUD-20141227-WA0007.mp3",
+    "title":"Bapu Zimidar",
+    "artist":"Jassie Gill",
+    "coverImage": "/Web D/Music App/Images/img6.jpg"
+  },
+
+  {
+    "source":"/Web D/Music App/songs/Backbone-(Mr-Jatt.com).mp3",
+    "title":"Backbone",
+    "artist":"Hardy Sandhu",
+    "coverImage": "/Web D/Music App/Images/img7.jpg"
+  },
+
+  {
+    "source":"/Web D/Music App/songs/Guitar Sikhda-(Mr-Jatt.com).mp3",
+    "title":"Guitar Sikhda",
+    "artist":"Jassie Gill",
+    "coverImage": "/Web D/Music App/Images/img8.jpg"
+  },
+
+  {
+    
+    "source":"/Web D/Music App/songs/03 - Ilahi - DownloadMing.SE.mp3",
+    "title":"Ilahi",
+    "artist":"Arjit Singh",
+    "coverImage": "/Web D/Music App/Images/img9.jpg"
+  },
+
+  
+  {
+    "source":"/Web D/Music App/songs/01 - Excuses (320 Kbps) - DownloadMing.SE.mp3",
+    "title":"Excuses",
+    "artist":"Garry Sandhu",
+    "coverImage": "/Web D/Music App/Images/img10.jpg"
+
+  }
+]
+
+}
